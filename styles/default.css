@@ -1,0 +1,145 @@
+#le_header {
+	text-align: right;
+	margin-bottom: 15px;
+}
+
+#le_home_link {
+}
+
+#le_linktous {
+}
+
+#le_searchlink {
+}
+
+#le_add_link {
+}
+
+#le_premium_link {
+}
+
+.le_tab {
+	margin: 8px;	
+}
+.le_tab_current {
+	color: #FF8000;	
+}
+
+#ls_linktous_textarea {
+	width: 350px;
+	margin-left: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#le_add_link_form td {
+	text-align: left;
+	font-size: 12px;
+	
+}
+
+.le_right {
+	text-align: right !important;
+}
+
+.le_message {
+	text-align: center;
+	color: #FF8000;
+}
+
+.le_error {
+	text-align: center;
+	color: #BB0000;
+}
+
+#le_tabcontent {
+	text-align: left !important;
+	overflow: hidden;
+}     
+#le_tabcontent #le_main {
+	overflow: hidden;
+}  
+#le_tabcontent #le_main input {
+	width: 280px;
+}
+#le_tabcontent form {
+	text-align: left !important;
+}         
+#le_search_left {
+	float: left;
+	
+}
+#le_search_right {
+	float: right;
+}
+#le_search_submit {
+	overflow: hidden;
+	text-align: right;  
+	margin-top: 15px;
+}
+
+.le_no_one {
+	text-align: center;
+	font-style: italic;
+}
+#le_search_results {
+	padding-top: 0;
+	margin: 0px;
+	margin-bottom: 40px;	
+}
+
+#le_poweredby {
+	padding: 10px 0 0 0;
+	text-align: right;
+	font-size: 10px;
+}
+
+.le_current_cat {
+	padding-top: 0px;
+	margin: 0 0 2px 0;
+}
+
+.le_current_cat_description {
+	font-size: 11px;
+	
+}
+
+.le_links {
+	padding-top: 10px;
+}
+
+.le_pages {
+	padding-top: 10px;
+	font-size: 11px;
+	color: #858585;
+}
+
+#le_select_cat{
+	padding-top: 20px;
+	float: left;
+	display: block;
+}
+#le_select_cat select {
+	margin-right: 5px;	
+}
+
+#le_paypal{
+	padding-top: 20px;
+	float: right;
+	display: block;
+}
+
+.le_single {
+	line-height: 21px;
+}
+
+.le_cached {
+	margin: 0;
+	padding: 0;  
+}
+.le_cached td {
+	font-weight: bold;
+}
+.le_cached td a {
+	font-weight: normal;
+}
